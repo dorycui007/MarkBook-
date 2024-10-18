@@ -111,6 +111,7 @@ class Course:
                    for category_id in range(len(categories.values())))
 
 
+# [thinking, knowledge, communication, application] 
 data_management = Course("MDM4U1", [0.25, 0.25, 0.25, 0.25])
 
 # ("unit 1 test", "Oct 10", "application", 10.4, 95)
